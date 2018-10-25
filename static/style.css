@@ -1,1 +1,21 @@
-/* Put your CSS Styling here! */
+/* Put your CSS Styling here! */h1{
+	color: white;
+	text-align: center;
+	font-family: arial;
+}
+
+body {background-color: DarkOrchid;
+	color: red;
+}
+
+h1{
+	text-align: center;
+	font-family: arial;
+	text-decoration-color: red;
+	color: red;
+}
+
+h2{
+	text-align: center;
+	font-family: arial;
+}
